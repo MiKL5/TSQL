@@ -107,6 +107,6 @@ ___
 
 ## **🔗 Sujets connexes** </div>
 [PostgreSQL](https://github.com/MiKL5/PostgreSQL) <a href="https://github.com/MiKL5/PostgreSQL"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" align="left" height="20px"> </a>  
-[MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"> <img src="https://github.com/MiKL5/Business_Intelligence/raw/master/assets/mongodb_original_logo_icon_146424.svg" align="left" height="20px"> </a>
+[MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"> <img src="https://github.com/MiKL5/Business_Intelligence/raw/main/assets/mongodb_original_logo_icon_146424.svg" align="left" height="20px"> </a>
 
-[Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"> <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/Power_BI.svg" alt="Power BI" align="left" height="20px"> </a>
+[Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"> <img src="https://github.com/MiKL5/PowerBI/raw/main/assets/Power_BI.svg" alt="Power BI" align="left" height="20px"> </a>
