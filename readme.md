@@ -1,4 +1,4 @@
-<div align="center"><h1><b> Microsoft SQL Server</b><a href="https://github.com/MiKL5/Business_Intelligence/"><img src="assets/Microsoft_SQL_Server.svg" alt="Microsoft SQL Server" align="right" height="64px"></a></h1>
+<div align="center"><h1><b> Microsoft SQL Server</b><a href="https://github.com/MiKL5/Business_Intelligence/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="Microsoft SQL Server" align="right" height="64px"></a></h1>
 
 Système de Gestion de Base de Données Relationnel initialement développé en 1988 par Sybase et Microsoft, puis commercialisé en 1989. En 1984, le partenariat est rompu ; Microsoft le commercialise sous SQL server.
 
