@@ -1,4 +1,4 @@
-# **Le Transact-SQL**<a href="../"><img src="../https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" align="right" height="64px"></a>
+# **Le Transact-SQL**<a href="../"><img src="https://github.com/MiKL5/Business_Intelligence/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" align="right" height="64px"></a>
 Le Transact-SQL (T-SQL) est considéré comme un langage de programmation, il s’agit d’une extension au SQL.
 ## **Le rôle et les fonctionnalités**
 Il étant les fonctionnalités permettant une programmation plus riche et flexible.
