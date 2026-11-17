@@ -1,4 +1,4 @@
-# **Quelle est la version d’SQL server ?**<a href="../"><img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"></a>
+# **Quelle est la version d’SQL server ?**<a href="../"><img src="../https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" align="right" height="64px"></a>
 ## **Information détaillées**
 ```sql
 SELECT @@VERSION AS Version ;

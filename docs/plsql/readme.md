@@ -1,4 +1,4 @@
-# **Le PL/SQL**<a href="../"><img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"></a>
+# **Le PL/SQL**<a href="../"><img src="../https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" align="right" height="64px"></a>
 Le PL/SQL (Procedural Language/Structured Query Language) est le langage procédural d’Oracle qui s’appuie sur SQL pour la gestion des bases de données. Il ajoute des fonctionnalités de programmation (boucles, conditions, exceptions, etc.) aux requêtes classiques.
 
 Son but est de créer des applications plus puissantes, plus efficaces et plus fiables.  

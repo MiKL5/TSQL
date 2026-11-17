@@ -1,4 +1,4 @@
-# **Procédure stockée**<a href="../"> <img src="../../assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="right" height="64px"> </a>
+# **Procédure stockée**<a href="../"> <img src="../https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" align="right" height="64px"> </a>
 C’est un ensemble d’instruction SQL compilée à la base de données.  
 Pouvant contenir les instructions ‘INSERT’, ‘UPDATE’, ‘DELETE’.
 Avaantages | Inconvénients
