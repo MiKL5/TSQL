@@ -1,4 +1,4 @@
-# **Insérer, sélectionner, modifier et supprimer les upsets**<a href="../../"> <img src="https://github.com/MiKL5/Business_Intelligence/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" align="right" height="64px"> </a>
+# **Insérer, sélectionner, modifier et supprimer les upsets**<a href="../../"><img src="https://github.com/MiKL5/business-intelligence/raw/main/assets/atomicBi.png" alt="business intelligence" align="right" height="64px"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" align="right" height="64px"> </a>
 ## Créer une table
 ```sql
 --  Créer une table 'table' terme reservé à SQL

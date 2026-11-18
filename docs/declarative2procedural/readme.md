@@ -1,4 +1,4 @@
-# **Quelle est la différence entre un langage déclaratif et procédural ?**<a href="../"><img src="https://github.com/MiKL5/Business_Intelligence/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" align="right" height="64px"></a>
+# **Quelle est la différence entre un langage déclaratif et procédural ?**<a href="../"><img src="https://github.com/MiKL5/business-intelligence/raw/main/assets/atomicBi.png" alt="business intelligence" align="right" height="64px"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" align="right" height="64px"></a><br><br>
 Critère | Langage Déclaratif ❇️ | Langage Procédural 🔄
 ---|:-:|:-:
 Définition | Décrit ce que l’on veut obtenir sans préciser comment le faire. | Décrit comment effectuer une tâche avec une séquence d’instructions.
