@@ -1,24 +1,74 @@
 {
     "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#5280b3",
-        "activityBar.background": "#5280b3",
-        "editorError.foreground": "#000000ff",
-        "editorGroup.border": "#5280b3",
-        "editorInfo.foreground": "#000000ff",
-        "editorWarning.foreground": "#000000ff",
-        "panel.border": "#5280b3",
-        "sash.hoverBorder": "#5280b3",
-        "sideBar.border": "#5280b3",
-        "statusBar.background": "#406792",
-        "statusBar.border": "#406792",
-        "statusBar.debuggingBackground": "#926b40",
-        "statusBar.debuggingBorder": "#926b40",
-        "statusBarItem.hoverBackground": "#5280b3",
-        "statusBarItem.remoteBackground": "#406792",
-        "tab.activeBorder": "#5280b3",
-        "titleBar.activeBackground": "#406792",
-        "titleBar.border": "#406792",
-        "titleBar.inactiveBackground": "#40679299"
+        // Fenêtre
+        "editor.background": "#000",                 // Fond de la zone d'édition du code
+        "editor.foreground": "#fafcee",              // Couleur du texte par défaut dans l'éditeur
+        "panel.background": "#000",                  // Fond du panneau inférieur (terminal, problèmes, sortie)
+        "panel.border": "#5CC8FF",                   // Bordure séparant le panneau de l'éditeur
+        "editorGroup.border": "#5CC8FF",             // Bordure entre deux groupes d'éditeurs (fenêtres scindées)
+        "sideBar.background": "#000",                // Fond de la barre latérale (explorateur, recherche, etc.)
+        "sideBar.foreground": "#5CC8FF",             // Couleur du texte dans la barre latérale
+        "sideBar.border": "#5CC8FF",                 // Bordure entre la barre latérale et l'éditeur
+        "sash.hoverBorder": "#5CC8FF",               // Couleur de la poignée de redimensionnement au survol
+
+        // Liens
+        "textLink.foreground": "#00ccff",            // Liens dans l'interface (Markdown, pages d'accueil, notifications)
+        "textLink.activeForeground": "#9FE0FF",      // Liens survolés ou cliqués
+        "editorLink.activeForeground": "#FFAE00",    // Liens cliquables dans l'éditeur (URL, chemins) avec Ctrl/Cmd
+        "textPreformat.foreground": "#eccea3",       // Code en ligne dans les aperçus Markdown
+        "terminalLink.foreground": "#00ff04",          // Liens détectés dans le terminal
+        "terminalLink.activeForeground": "#9FE0FF"     // Liens survolés dans le terminal
+
+        // Barre d'activité
+        "activityBar.background": "#9FE0FF",         // Fond de la barre d'icônes verticale à gauche
+        "activityBar.foreground": "#FFF",            // Couleur des icônes actives ou survolées
+        "activityBar.inactiveForeground": "#fffF",   // Couleur des icônes non sélectionnées
+        "activityBar.activeBackground": "#9FE0FF",   // Fond de l'icône actuellement sélectionnée
+        "activityBar.activeBorder": "#9FE0FF",       // Trait indiquant l'icône active
+        "activityBarBadge.background": "#fff",       // Fond de la pastille de notification sur les icônes
+        "activityBarBadge.foreground": "#000",       // Couleur du chiffre dans la pastille
+
+        // Onglets
+        "editorGroupHeader.tabsBackground": "#000",    // Fond de la bande qui contient les onglets
+        "tab.activeBackground": "#343434",             // Fond de l'onglet actif
+        "tab.activeForeground": "#fafcee",             // Texte de l'onglet actif
+        "tab.activeBorder": "#343434",                 // Trait sous l'onglet actif
+        "tab.inactiveBackground": "#525362",           // Fond des onglets non actifs
+        "tab.inactiveForeground": "#C9C6FF",           // Texte des onglets non actifs
+        "tab.hoverBackground": "#000",                 // Fond d'un onglet survolé
+        "tab.hoverForeground": "#fafcee",              // Texte d'un onglet survolé
+
+        // Boutons
+        "button.background": "#1A4FA0",              // Fond des boutons principaux
+        "button.foreground": "#FFFFFF",              // Texte des boutons principaux
+        "button.hoverBackground": "#174A98",         // Fond d'un bouton principal survolé
+        "button.secondaryBackground": "#ffae00",     // Fond des boutons secondaires
+        "button.secondaryForeground": "#fff",        // Texte des boutons secondaires
+        "button.border": "#9FE0FF",                  // Bordure des boutons
+        "focusBorder": "#9FE0FF",                    // Contour de l'élément qui a le focus clavier
+
+        // Diagnostics (neutres, comme avant)
+        "editorError.foreground": "#000000ff",       // Soulignement des erreurs dans le code
+        "editorInfo.foreground": "#000000ff",        // Soulignement des informations
+        "editorWarning.foreground": "#000000ff",     // Soulignement des avertissements
+
+        // Barre d'état
+        "statusBar.background": "#0095ff",           // Fond de la barre en bas de la fenêtre
+        "statusBar.foreground": "#fcfbee",           // Texte et icônes de la barre d'état
+        "statusBar.border": "#9FE0FF",               // Bordure supérieure de la barre d'état
+        "statusBar.debuggingBackground": "#c39858",  // Fond de la barre d'état pendant le débogage
+        "statusBar.debuggingForeground": "#FFF",     // Texte de la barre d'état pendant le débogage
+        "statusBar.debuggingBorder": "#FFD28A",      // Bordure de la barre d'état pendant le débogage
+        "statusBarItem.hoverBackground": "#1A4FA0",  // Fond d'un élément de la barre d'état survolé
+        "statusBarItem.remoteBackground": "#1A4FA0", // Fond du bouton « distant » (WSL, SSH, conteneur)
+        "statusBarItem.remoteForeground": "#FFF",    // Texte du bouton « distant »
+
+        // Barre de titre
+        "titleBar.activeBackground": "#0095ff",      // Fond de la barre de titre quand la fenêtre est active
+        "titleBar.activeForeground": "#fafcee",      // Texte de la barre de titre quand la fenêtre est active
+        "titleBar.inactiveBackground": "#010423",    // Fond de la barre de titre quand la fenêtre est inactive
+        "titleBar.inactiveForeground": "#c0beaf",    // Texte de la barre de titre quand la fenêtre est inactive
+        "titleBar.border": "#0095ff"                 // Bordure sous la barre de titre
     },
-    "peacock.color": "#406792"
+    "peacock.color": "#0095ff"                       // Couleur de base mémorisée par l'extension Peacock
 }
